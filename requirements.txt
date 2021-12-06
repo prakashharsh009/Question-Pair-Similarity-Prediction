@@ -1,0 +1,6 @@
+
+pip install scikit-learn==0.22.2.post1
+conda install -c conda-forge lightgbm
+pip install python-Levenshtein
+pip install distance
+pip install fuzzywuzzy
